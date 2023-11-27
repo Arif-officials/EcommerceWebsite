@@ -6,7 +6,10 @@ function Home(){
         <div>
         <Header/>
     <Navbar/>
+    <h2><p>Hi this is Arif</p></h2>
+   
     </div>
+    
     );
 }
 

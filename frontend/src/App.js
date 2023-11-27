@@ -4,7 +4,7 @@ import LoginSignupPage from './pages/loginpage';
 
 function App() {
   return (
-  <Home/>
+  <LoginSignupPage/>
   );
 }
 
