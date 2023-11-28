@@ -1,10 +1,11 @@
 /* styles.css */
 
 nav {
-    background-color: #333;
+    background-color: rgba(0,0,0,0.5);
     padding: 15px;
+    position: fixed;
     top: 0;
-   
+    width: 100%;   
   }
   
   ul {
