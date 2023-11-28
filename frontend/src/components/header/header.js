@@ -1,4 +1,4 @@
-
+import "./header.css"
 function Header(){
     return(
         <div className="Header-bg-image"></div>

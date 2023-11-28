@@ -6,7 +6,10 @@ function Home(){
         <div>
         <Header/>
     <Navbar/>
+    <img src="EcommerceWebsite\frontend\src\assets\images\him.png"></img>
+   
     </div>
+    
     );
 }
 
