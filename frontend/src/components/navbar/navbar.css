@@ -1,7 +1,8 @@
 /* styles.css */
 
 nav {
-    background-color: rgba(0,0,0,0.5);
+    background-color:rgb(249 246 246 / 2%);
+    
     padding: 15px;
     position: fixed;
     top: 0;
@@ -30,5 +31,11 @@ nav {
   }
   .icons{
     display: flex;
-   margin-left: 1023px;
+   margin-left: 54%;
   }
+.logo{
+  background-image: url(../../assets/images/logo.png);
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 18px;
+}
