@@ -1,0 +1,12 @@
+.home-img{
+    display:flex;
+}
+.container{
+    width: 50%;
+    z-index: 2;
+    position: absolute;
+    top: 79%;
+}
+.him-img{
+    right: 5px;
+}
