@@ -1,5 +1,8 @@
 .home-img{
     display:flex;
+    height: 554px;
+    width: 554px;
+    margin-left: 55px;
 }
 .container{
     width: 50%;
@@ -9,4 +12,10 @@
 }
 .him-img{
     right: 5px;
+}
+.hometext{
+    margin-left: 44px;
+}
+h2{
+    text-align: center;
 }
