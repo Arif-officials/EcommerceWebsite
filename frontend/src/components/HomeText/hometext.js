@@ -6,7 +6,7 @@ function Hometext() {
     <div className="container">
       <div className="hometext">
         <h2>
-        Just dropped & never seen before
+        Just dropped & never seen before ARIF
         </h2>
         <h1>Designed specially for you</h1>
       </div>
