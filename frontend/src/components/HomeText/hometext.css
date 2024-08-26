@@ -12,6 +12,9 @@
 }
 .him-img{
     right: 5px;
+    animation:alternate;
+    animation-duration: 4s;
+    animation-direction: reverse;
 }
 .hometext{
     margin-left: 44px;
